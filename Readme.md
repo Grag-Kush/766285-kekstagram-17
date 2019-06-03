@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Григорий Кушнаренко](https://up.htmlacademy.ru/javascript/17/user/766285).
-* Наставник: `Неизвестно`.
+* Наставник: [Игорь Тараканов](https://up.htmlacademy.ru/javascript/17/user/487569).
 
 ---
 
